@@ -1,0 +1,7 @@
+node_modules
+.metadata
+RemoteSystemsTempFiles
+.settings
+.jshintrc
+.tern-project
+.project
