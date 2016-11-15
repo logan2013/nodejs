@@ -1,7 +1,6 @@
 https://github.com/substack/stream-handbook
 
-# stream-handbook
+É¾³ıÒÀÀµµÄÄ£¿é
 
-
-
-## Usage
+npm install -g rimraf
+rimraf node_modules
